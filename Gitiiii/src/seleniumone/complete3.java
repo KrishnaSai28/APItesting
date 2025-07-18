@@ -7,7 +7,7 @@ public class complete {
 		System.out.println("First");
 		System.out.println("Second");
 		
-		System.out.println("Third");
+		System.out.println("i am the first person here");
 	
 		
 	}
@@ -15,7 +15,7 @@ public class complete {
 	{
 		System.out.println("First");
 		
-		System.out.println("Third");
+		System.out.println("I am the second person here");
 	
 		
 	}
