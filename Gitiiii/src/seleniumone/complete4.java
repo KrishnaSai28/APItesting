@@ -15,9 +15,9 @@ public class complete {
 	public void wake()
 	{
 		System.out.println("First");
-		
+		System.out.println("eight");
 
-		
+		System.out.println("third");
 	}
 
 }
